@@ -2,8 +2,6 @@
 
 ![Demo image](./demo.png)
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) to showcase using [AuthKit](https://docs.picaos.com/core/authkit).
-
 ## What is AuthKit?
 
 AuthKit is a drop-in component that handles third-party authentication for your users that works with all major frontend frameworks. Instead of building OAuth flows and managing credentials for dozens of platforms, you can embed AuthKit and let your users securely connect their Gmail, Slack, Salesforce, QuickBooks, and other accounts in minutes. **It's essentially Plaid, but for integrations.**
