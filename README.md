@@ -31,4 +31,4 @@ The app will be running on PORT 3000 🎉
 
 ## Learn More
 
-Read the [AuthKit documentation](https://docs.picaos.com/authkit/what-is-authkit).
+Read the [AuthKit documentation](https://docs.picaos.com/authkit).
